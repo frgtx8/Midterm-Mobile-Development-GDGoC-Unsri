@@ -147,5 +147,5 @@ Tema aplikasi bebas, tetapi kualitas implementasi, kerapian kode, integrasi back
 
 Happy Coding Folks! 
 <p align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl5ZjlhNWdmeHE5a2pqMW1mdnlkdzUxdjJqN2Z0NG5zMWNjZDd6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JZ8szItGgEGNtSigTb/giphy.gif" width="500" />
+  <img src="https://tenor.com/ulgIcgM2ASk.gif" width="500" />
 </p>
