@@ -115,7 +115,7 @@ Aplikasi memisahkan kode menjadi 3 layer utama yang mengikuti prinsip SOLID:
 
 ### Langkah 1: Clone Repository
 ```bash
-git clone https://github.com/[username]/Midterm-Mobile-Development-GDGoC-Unsri.git
+git clone https://github.com/frgtx8/Midterm-Mobile-Development-GDGoC-Unsri.git
 cd Midterm-Mobile-Development-GDGoC-Unsri/mydompet
 ```
 
@@ -244,4 +244,5 @@ Base URL Backend: `http://localhost:3000/api`
 
 ## 👤 Author
 
-Dibuat dengan penuh ❤️ untuk **Midterm Mobile Development — GDGoC Unsri 2026**
+Dibuat dengan penuh ❤️ oleh **Fadhil Rahman** untuk **Midterm Mobile Development — GDGoC Unsri 2026**
+*   **GitHub Repositori:** [frgtx8/Midterm-Mobile-Development-GDGoC-Unsri](https://github.com/frgtx8/Midterm-Mobile-Development-GDGoC-Unsri.git)
